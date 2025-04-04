@@ -1,3 +1,9 @@
+@font-face {
+    font-family: "pt sans";
+    src: url(../fonts/PTSans-Regular.ttf) format(truetupe), 
+    url(../fonts/PTSans-Bold.ttf) format(truetype);
+}
+
 /* common start */
 body{
     font-family: "PT Sans", sans-serif;
