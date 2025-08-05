@@ -2,7 +2,8 @@
 @media (max-width: 575.98px) { 
      /*common start*/
      body{
-       padding-top:89;   
+       margin-top:-20px;
+            
      }
      .c_pading{
         padding-top: 50px;
@@ -228,4 +229,5 @@
 @media (min-width: 1400px) { 
 
 }
+
 
