@@ -2,8 +2,7 @@
 @media (max-width: 575.98px) { 
      /*common start*/
      body{
-       margin-top:-20px;
-            
+            padding-top: 89px;
      }
      .c_pading{
         padding-top: 50px;
@@ -21,6 +20,7 @@
     }
     /* slider start */
     .slider {
+        padding-top: 20px;
         padding-bottom: 65px;
     
     }
@@ -100,9 +100,6 @@
 }
 /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767.98px){
-     body{
-          margin-top:-20px;
-     }
     .c_pading{
         padding-top: 50px;
         padding-bottom: 70px;
